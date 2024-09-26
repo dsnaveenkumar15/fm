@@ -1,0 +1,26 @@
+I need to complete one assignment, I have one excel sheet with cash flow, Balance sheet and p & l statement, using that can you pls calculate the below for me
+
+
+ 
+
+1)      After doing horizontal and vertical analysis (most recent 5 years), I would like you to calculate (using excel) at a minimum the following ratios: current ratio, cash ratio, turnover ratios, solvency/ leverage ratios such as debt to equity ratio, profitability ratios such as net profit margin, ROE, etc. There is no upper limit for the number of ratios you want to analyze but at a minimum you should cover at least 10 important ratios across all the categories. Please do this for the most recent 5 years as well (as mentioned above). Please chart all your analysis using either line charts or other appropriate charting techniques. Please include a short commentary on your analysis/ charts that you have done, including the ratios that you have analyzed, i.e. your analysis and explanation of what is going on. What is the data telling you? What is the significance of the trend? Is the company doing well or not doing well? Etc.
+
+2)     Data driven story telling – master to this art. What is data driven story telling: 3 elements
+
+a.     Data itself: data should be robust, that is why I am asking you to only get the data from Bloomberg. Analysis itself should be sound. That is why I am asking you to review the recordings, etc.
+
+b.     Story line: Narrative; for each chart you have to interpret the chart and give your views on what it is telling and also provide some idea on the insights from the chart and also give recommendation on actions the company should take
+
+c.      Data Visualization: We need to present the data effectively so that managers who have less time can still get a clear picture and thereby they can make correct decisions. How? By using the appropriate charts, graphs, diagrams, etc.
+
+
+
+Please submit your assignment online by UPLOADING your EXCEL FILE (MANDATORY). You should also include one additional file (either WORD or POWEPOINT), where you can highlight analysis findings, important take-aways, commentary, etc
+
+In your excel file you must mention the source of your data, i.e. Bloomberg database (whether you came to the lab or requested Ms. Shilpa) and date you accessed the data source to get the data.
+
+You are expected to do the Horizontal and Vertical Analysis on the balance sheet and income statement only.
+
+ PLEASE BE SURE TO INCLUDE YOUR BITS STUDENT ID AS PART OF THE NAME OF THE FILE(s)
+ 
+ 
